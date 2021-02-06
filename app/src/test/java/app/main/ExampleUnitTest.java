@@ -1,4 +1,4 @@
-package app.prompto;
+package app.main;
 
 import org.junit.Test;
 
