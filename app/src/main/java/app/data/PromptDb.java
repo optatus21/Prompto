@@ -22,8 +22,8 @@ public class PromptDb extends SQLiteOpenHelper {
     private final static String CREATE_GENRES_TABLE = "create table " + TABLE_NAME_GENRES + "(" + PROMPT_GENRE_ID + " int primary key autoincrement," +
             PROMPT_GENRE + " text not null);";
     
-    private final static String ALTER_PROMPTS_TABLE = "ALTER TABLE " + TABLE_NAME_PROMPTS
-            + " ADD COLUMN " + PROMPT_GENRE_ID + " int references " + TABLE_NAME_GENRES
+    private final static String ALTER_PROMPTS_TABLE = "alter table " + TABLE_NAME_PROMPTS
+            + " add column " + PROMPT_GENRE_ID + " int references " + TABLE_NAME_GENRES
             + "(" + PROMPT_GENRE_ID + ");";
     
     public PromptDb(Context context, String name, CursorFactory factory, int version) {
