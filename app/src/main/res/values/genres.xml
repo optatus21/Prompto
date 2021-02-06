@@ -4,5 +4,9 @@
         <item>Prose</item>
         <item>Screenplay</item>
         <item>Poem</item>
+        <item>Song Lyrics</item>
+        <item>Letter</item>
+        <item>Memoir</item>
+        <item>Speech</item>
     </string-array>
 </resources>

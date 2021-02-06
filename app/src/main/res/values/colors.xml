@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- base -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -7,4 +8,22 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- prompto -->
+    <color name="ALICE_BLUE">#DCEDFF</color>
+    <color name="WILD_BLUE_YONDER">#94B0DA</color>
+    <color name="MANATEE">#8F91A2</color>
+    <color name="DAVYS_GREY">#505A5B</color>
+    <color name="OUTER_SPACE_CRAYON">#343F3E</color>
+    <color name="CHARLESTON_GREEN">#1E2F30</color>
+    <color name="DARK_JUNGLE_GREEN">#071E22</color>
+    <color name="MIDDLE_GREEN_YELLOW">#AFC97E</color>
+    <!-- prompto_alt -->
+    <color name="CULTURED">#F0F2F5</color>
+    <color name="LIGHT_GRAY">#C8CCD2</color>
+    <color name="GRAY_X_ELEVEN_GRAY">#B6B7B9</color>
+    <color name="BATTLESHIP_GREY">#888A8A</color>
+    <color name="NICKEL">#727979</color>
+    <color name="DIM_GRAY">#626C6C</color>
+    <color name="DEEP_SPACE_SPARKLE">#506166</color>
+    <color name="ASH_GRAY">#C0C4BA</color>
 </resources>
